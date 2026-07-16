@@ -379,8 +379,3 @@ My goal is to become an AI Engineer who builds impactful and innovative AI solut
 
 </p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:92FE9D"/>
-
-</div>
