@@ -177,7 +177,76 @@
 
 # 📊 GitHub Analytics
 
+<div align="center">
+
+## 📈 Ankita Shendge's GitHub Statistics
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shendgeankita522-blip &show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shendgeankita522-blip &layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shendgeankita522-blip&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shendgeankita522-blip&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shendgeankita522-blip&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shendgeankita522-blip&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shendgeankita522-blip&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shendgeankita522-blip/shendgeankita522-blip/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shendgeankita522-blip&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⭐ GitHub Profile Badges
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/shendgeankita522-blip?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/shendgeankita522-blip?affiliations=OWNER&style=for-the-badge"/>
+
+</div>
+
+---
