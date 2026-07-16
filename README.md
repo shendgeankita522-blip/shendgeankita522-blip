@@ -28,10 +28,8 @@
 
 ---
 
-# 💫 About Me
 
-```python
-class AnkitaShendge:
+    class AnkitaShendge:
 
     def __init__(self):
 
@@ -83,9 +81,6 @@ class AnkitaShendge:
 me = AnkitaShendge()
 
 print(me.say_hi())
-```
-
----
 
 # 🌟 Who Am I?
 
