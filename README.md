@@ -175,36 +175,11 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-## 📈 Ankita Shendge's GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shendgeankita522-blip&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shendgeankita522-blip&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=shendgeankita522-blip&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shendgeankita522-blip&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -250,3 +225,162 @@
 </div>
 
 ---
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **Customer Churn Prediction** | Built a machine learning model to predict customer churn and help businesses improve customer retention. | Python, Scikit-learn, Streamlit, Pandas |
+| 💬 **College Helpdesk Chatbot** | AI-powered chatbot that answers college-related queries with an interactive Streamlit interface. | Python, NLP, Streamlit, SQLite |
+| ✋ **Hand Gesture Controlled Facial Expression System** | Real-time hand gesture recognition system that changes facial expressions using AI and Computer Vision. | Python, OpenCV, MediaPipe |
+| 🏠 **House Price Prediction** | Predicts house prices based on multiple features using regression techniques. | Python, Machine Learning, Streamlit |
+| ❤️ **Heart Disease Prediction** | Predicts the likelihood of heart disease using healthcare data and machine learning models. | Python, Scikit-learn, Flask |
+
+</div>
+
+---
+
+## 🌟 What I'm Currently Working On
+
+- 🤖 Building AI-powered applications using Machine Learning and Deep Learning
+- 🧠 Exploring Large Language Models (LLMs) and Generative AI
+- 💬 Developing NLP-based applications
+- 👁️ Creating Computer Vision projects with OpenCV & MediaPipe
+- 📚 Learning LangChain, RAG, AI Agents & MLOps
+- 🌱 Strengthening Data Structures, Algorithms & Problem-Solving skills
+
+---
+# 💻 Technical Skills
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-success?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-orange?style=for-the-badge)
+
+### ⚙️ Frameworks & Libraries
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🌟 Built multiple AI & Machine Learning projects.
+
+📚 Continuously learning **Generative AI, Agentic AI & LLM Engineering**.
+
+💻 Actively improving my problem-solving and software development skills.
+
+🚀 Looking for opportunities to contribute to impactful AI projects.
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shendgeankita">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shendgeankita522-blip">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="shendgeankita522@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+
+# 💡 My Areas of Interest
+
+✨ Artificial Intelligence
+
+✨ Machine Learning
+
+✨ Deep Learning
+
+✨ Generative AI
+
+✨ Agentic AI
+
+✨ Large Language Models (LLMs)
+
+✨ Computer Vision
+
+✨ Natural Language Processing
+
+✨ Data Science
+
+✨ MLOps
+
+---
+
+# 📈 GitHub Journey
+
+🎯 Every project in this profile represents a step in my learning journey.
+
+I enjoy solving real-world problems through Artificial Intelligence and continuously explore new technologies to strengthen my skills.
+
+My goal is to become an AI Engineer who builds impactful and innovative AI solutions.
+
+---
+
+# 🤝 Open for Opportunities
+
+💼 AI/ML Internship
+
+🤝 Open Source Collaboration
+
+📚 Learning & Research
+
+🚀 Innovative AI Projects
+
+---
+# 💬 Favorite Quote
+
+> *"Success is built one project, one bug fix, and one lesson at a time."*
+
+---
+
+# 💙 Thank You for Visiting
+
+<p align="center">
+
+### ⭐ If you found my projects interesting, consider giving them a Star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:92FE9D"/>
+
+</div>
