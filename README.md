@@ -1,17 +1,16 @@
-## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C9FF,100:92FE9D&text=Ankita%20Shendge&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20|%20AI%20%26%20Data%20Science%20Student&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C9FF,100:92FE9D&text=Ankita%20Shendge&fontColor=ffffff&fontSize=58"/>
 
-# 👋 Hello, I'm Ankita Shendge
+# 👋 Hello, I'm Ankita!
 
-### 🎓 B.Tech Student in Artificial Intelligence & Data Science
+### 🎓 AI & Data Science Student
 
-### 🚀 Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI Learner
+### 🚀 Learning Today • Building Tomorrow • Innovating with AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Learner;Computer+Vision+Explorer;NLP+%26+Generative+AI+Learner;Building+Projects+One+Step+at+a+Time"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Aspiring+AI+Engineer;Building+Real-World+AI+Projects;Machine+Learning+%7C+Deep+Learning;Exploring+Generative+AI+%26+LLMs;Always+Curious+Always+Learning"/>
 
-### 💡 *Passionate about learning, building AI solutions, and growing into a skilled AI Engineer.*
+### 💙 *Driven by curiosity. Powered by learning. Inspired by Artificial Intelligence.*
 
 </div>
 
