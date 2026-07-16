@@ -203,28 +203,8 @@
 
 </div>
 
----
+--
 
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shendgeankita522-blip&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# ⭐ GitHub Profile Badges
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/shendgeankita522-blip?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/shendgeankita522-blip?affiliations=OWNER&style=for-the-badge"/>
-
-</div>
-
----
 # 🚀 Featured Projects
 
 <div align="center">
@@ -368,14 +348,19 @@ My goal is to become an AI Engineer who builds impactful and innovative AI solut
 > *"Success is built one project, one bug fix, and one lesson at a time."*
 
 ---
+---
 
-# 💙 Thank You for Visiting
+<div align="center">
 
-<p align="center">
+# 💚 THANK YOU FOR VISITING 💚
 
-### ⭐ If you found my projects interesting, consider giving them a Star!
+### ⭐ If you enjoyed my work, consider giving my repositories a star!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+### 💻 AI & Data Science Enthusiast
+### 🚀 Learning • Building • Growing
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 
+</div>
+
+---
